@@ -8,7 +8,7 @@ If I need a pomodoro app to study, chances are I want to do it but not stick wit
 
 Currently know a bit of java, javascript and python in progamming languages. Currently dabble a bit in html. I am interested in learning rust because it is open source, blazing fast and secure.
 
-I have one main project that is the (pomodoro app)[https://github.com/fsbitbybit/Portifolio/tree/master/python-projects/pomodoro-timer], that is not complete yet due to issues with buffering.
+I have one main project that is the [pomodoro app](https://github.com/fsbitbybit/Portifolio/tree/master/python-projects/pomodoro-timer), that is not complete yet due to issues with buffering.
 
 ### Fun facts:
 - I love abstract concepts
